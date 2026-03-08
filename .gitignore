@@ -1,9 +1,9 @@
-Quart/UserSettings/
+Quarto/UserSettings/
 *.sln
-Quart/Library/
-Quart/.vs/
-Quart/obj/
-Quart/Logs/
+Quarto/Library/
+Quarto/.vs/
+Quarto/obj/
+Quarto/Logs/
 *.csproj
 *.vsconfig
-Quart/Temp/
+Quarto/Temp/
